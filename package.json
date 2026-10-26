@@ -1,6 +1,6 @@
 {
   "name": "taro-rework",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "pnpm@10.34.7",
   "description": "Typed Taro HTTP client with token refresh, uploads and cancellation",
   "license": "MIT",
